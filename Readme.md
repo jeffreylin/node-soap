@@ -1,3 +1,12 @@
+```
+  This is a scratch branch to change some internal workings for compatibility with the ChargePoint API
+  Feel free to use however you want. =]
+  
+  -Jeff
+```
+
+# node-soap
+
 This module lets you connect to web services using SOAP.  It also provides a server that allows you to run your own SOAP services.
 
 Features:
